@@ -1,4 +1,4 @@
-# Milan Mirchev
+# Milan Krasimirov Mirchev
 
 ## Estudiante de Sistemas Microinformáticos y Redes
 
