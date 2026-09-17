@@ -52,5 +52,14 @@ A largo plazo, quiero continuar mi formación en el ámbito de las tecnologías 
 ## Contacto
 
 GitHub: [github.com/Milan-BG](https://github.com/Milan-BG)
+
+
+
+
+
+
+
+
+
 <img width="678" height="452" alt="images" src="https://github.com/user-attachments/assets/f07aa25f-9d90-42fd-b995-2a49174d6e65" />
 
