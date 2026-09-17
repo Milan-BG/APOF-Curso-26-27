@@ -51,4 +51,4 @@ A largo plazo, quiero continuar mi formación en el ámbito de las tecnologías 
 
 ## Contacto
 
-GitHub: [github.com/TU_USUARIO](https://github.com/TU_USUARIO)
+GitHub: [github.com/Milan-BG](https://github.com/Milan-BG)
